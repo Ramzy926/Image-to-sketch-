@@ -31,6 +31,10 @@ pip install pillow numpy
 Input: `photo.jpg`
 Output: `sketch_photo.jpg`
 
+
+
+
+
 *👤 Author:* *Ramsfield*
 
 Feel free to fork, contribute, or reach out!
