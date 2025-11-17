@@ -1,5 +1,5 @@
 
-**#Image to Sketch 🖼️✏️**
+***Image to Sketch 🖼️✏️***
 
 Convert images into sketch-style art using Python, Pillow, and NumPy — even on Android using Termux!
 
