@@ -1,9 +1,9 @@
 
 # Image to Sketch 🖼️✏️
 
-Convert images into sketch-style art using Python, Pillow, and NumPy — even on Android using Termux!
+Convert images into sketch-style art using Python, Pillow, and NumPy even on Android using Termux!
 
-📱 Install Python in Termux
+## 📱 Install Python in Termux
 1. Install Termux from [F-Droid](https://f-droid.org) (recommended).
 2. Open Termux and run:
    ```bash
