@@ -1,17 +1,19 @@
-# Image to Sketch 🖼️✏️
+
+Image to Sketch 🖼️✏️
 
 Convert images into sketch-style art using Python, Pillow, and NumPy.
 
-## 📦 Dependencies
-- [Pillow](https://python-pillow.org/)
+📦 Requirements
+- *Python 3.6+*  
+- [Pillow](https://python-pillow.org/)  
 - [NumPy](https://numpy.org/)
 
-Install them with:
+Install libraries with:
 ```bash
 pip install pillow numpy
 ```
 
-*🚀 How to Use*
+🚀 How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ramzy926/Image-to-sketch-.git
@@ -22,19 +24,17 @@ pip install pillow numpy
    python sketch.py
    ```
 
-*🧠 How It Works*
+🧠 How It Works
 - Loads the image using Pillow.
 - Converts it to grayscale.
 - Applies a sketch effect using NumPy operations.
 
-*📁 Example*
-Input: `photo.jpg`
+📁 Example
+Input: `photo.jpg`  
 Output: `sketch_photo.jpg`
 
+---
 
-
-
-
-*👤 Author:* *Ramsfield*
-
+👤 *Author:* *Ramsfield*  
 Feel free to fork, contribute, or reach out!
+
